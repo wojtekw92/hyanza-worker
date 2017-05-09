@@ -1,0 +1,5 @@
+{
+  "checkTime": "60",
+  "url": "http://localhost:8000/api/test",
+  "slackWebHook": ""
+}
